@@ -53,6 +53,12 @@ hr,
     clip: rect(0, 0, 0, 0);
 }
 
+figure img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 body {
     /* 영문폰트과 한글폰트 같이 쓸 때 영문폰트 먼저 쓰고 한글폰트 쓰기 */
     font: 1.6rem/1.7 "Jost", "Pretendard", sans-serif;
