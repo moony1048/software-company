@@ -104,6 +104,10 @@ body {
     line-height: 1.5;
 }
 
+.btn-menu {
+    display: none;
+}
+
 /* footer는 세로크기 잡지말고 padding값을 주기 */
 #footer {
     padding: 5.2rem 0;
